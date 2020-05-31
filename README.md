@@ -7,8 +7,7 @@
 ### Links and Resources
 
 - [swagger](https://app.swaggerhub.com/apis/Anolla/api-server-lab06/0.2#/)
-- [submission PR](http://xyz.com)
-- [ci/cd](http://xyz.com) (GitHub Actions)
+- [submission PR](https://github.com/401-advanced-javascript-Anolla/api-server/pull/1)
 
 ### Setup
 
@@ -22,4 +21,4 @@
 
 #### UML
 
-Link to an image of the UML for your application and response to events
+![UML Diagram]()
