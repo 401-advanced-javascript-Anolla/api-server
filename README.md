@@ -21,4 +21,4 @@
 
 #### UML
 
-![UML Diagram]()
+![UML Diagram](./UML/class-06-UML.png)
