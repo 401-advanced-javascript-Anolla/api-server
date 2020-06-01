@@ -8,7 +8,7 @@
 
 - [swagger](https://app.swaggerhub.com/apis/Anolla/lab-07/0.1)
 - [submission PR](https://github.com/401-advanced-javascript-Anolla/api-server/pull/2)
-- [ci/cd](http://xyz.com)(https://github.com/401-advanced-javascript-Anolla/api-server/runs/728492345)
+- [ci/cd](https://github.com/401-advanced-javascript-Anolla/api-server/runs/728492345)
 
 ### Setup
 
