@@ -20,6 +20,10 @@
 
 - `nodemon`
 
+#### Tests
+
+- `npm test`
+
 #### UML
 
 ![UML Diagram](./UML/class-06-UML.png)
