@@ -1,4 +1,4 @@
-# LAB - Class 06
+# LAB - Class 07
 
 ## Project: Api-Server
 
@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [swagger](https://app.swaggerhub.com/apis/Anolla/api-server-lab06/0.2#/)
+- [swagger](https://app.swaggerhub.com/apis/Anolla/lab-07/0.1)
 - [submission PR](https://github.com/401-advanced-javascript-Anolla/api-server/pull/1)
 
 ### Setup
@@ -17,7 +17,7 @@
 
 #### How to initialize/run your application (where applicable)
 
-- `json-server --watch data/db.json --routes data/routes.json`
+- `nodemon`
 
 #### UML
 
