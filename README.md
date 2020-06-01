@@ -7,7 +7,7 @@
 ### Links and Resources
 
 - [swagger](https://app.swaggerhub.com/apis/Anolla/lab-07/0.1)
-- [submission PR](https://github.com/401-advanced-javascript-Anolla/api-server/pull/1)
+- [submission PR](https://github.com/401-advanced-javascript-Anolla/api-server/pull/2)
 
 ### Setup
 
