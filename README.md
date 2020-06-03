@@ -7,14 +7,14 @@
 ### Links and Resources
 
 - [swagger](https://app.swaggerhub.com/apis/Anolla/lab-09/0.1)
-- [submission PR](https://github.com/401-advanced-javascript-Anolla/api-server/pull/3)
-- [ci/cd](https://github.com/401-advanced-javascript-Anolla/api-server/runs/731816439)
+- [submission PR](https://github.com/401-advanced-javascript-Anolla/api-server/pull/4)
+- [ci/cd](https://github.com/401-advanced-javascript-Anolla/api-server/runs/736040466)
 
 ### Setup
 
 #### `.env` requirements (where applicable)
 
-- `PORT` - 3000
+- `PORT` - 5000
 
 #### How to initialize/run your application (where applicable)
 
