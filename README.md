@@ -1,4 +1,4 @@
-# LAB - Class 07
+# LAB - Class 08
 
 ## Project: Api-Server
 
@@ -18,7 +18,7 @@
 
 #### How to initialize/run your application (where applicable)
 
-- `nodemon`
+- `npm start`
 
 #### Tests
 
@@ -26,4 +26,4 @@
 
 #### UML
 
-![UML Diagram](./UML/class-06-UML.png)
+![UML Diagram](./UML/class-08-UML.png)
