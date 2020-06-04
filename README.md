@@ -1,4 +1,4 @@
-# LAB - Class 07
+# LAB - Class 09
 
 ## Project: Api-Server
 
@@ -14,7 +14,7 @@
 
 #### `.env` requirements (where applicable)
 
-- `PORT` - 5000
+- `PORT` - 3000
 
 #### How to initialize/run your application (where applicable)
 
@@ -26,4 +26,4 @@
 
 #### UML
 
-![UML Diagram](./UML/class-06-UML.png)
+![UML Diagram](./UML/lab08.png)
