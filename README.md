@@ -1,4 +1,4 @@
-# LAB - Class 09
+# LAB - Class 10
 
 ## Project: Api-Server
 
@@ -6,8 +6,8 @@
 
 ### Links and Resources
 
-- [swagger](https://app.swaggerhub.com/apis/Anolla/lab-09/0.1)
-- [submission PR](https://github.com/401-advanced-javascript-Anolla/api-server/pull/4)
+- [swagger](https://app.swaggerhub.com/apis/Anolla/lab-10/0.1)
+- [submission PR](https://github.com/401-advanced-javascript-Anolla/api-server/pull/5)
 - [ci/cd](https://github.com/401-advanced-javascript-Anolla/api-server/runs/736091284)
 
 ### Setup
@@ -18,7 +18,7 @@
 
 #### How to initialize/run your application (where applicable)
 
-- `nodemon`
+- `npm start`
 
 #### Tests
 
