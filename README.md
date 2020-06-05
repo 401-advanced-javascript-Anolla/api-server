@@ -1,4 +1,4 @@
-# LAB - Class 09
+# LAB - Class 9
 
 ## Project: Api-Server
 
@@ -18,7 +18,7 @@
 
 #### How to initialize/run your application (where applicable)
 
-- `nodemon`
+- `npm start`
 
 #### Tests
 
