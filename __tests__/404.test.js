@@ -14,7 +14,7 @@ describe('404 error Module', () => {
   });
 
   it('should respond with 404 on an invalid method', () => {
-    return mockRequest.patch('/fruit').then((results) => {
+    return mockRequest.patch('/route').then((results) => {
       expect(results.status).toBe(404);
     });
   });
