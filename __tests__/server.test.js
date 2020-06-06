@@ -68,7 +68,7 @@ describe('Categories API Moddule', () => {
         return mockRequest.delete(`/api/v1/categories/${id}`)
           .then((item)=>{
             Object.keys(obj).forEach(key=>{
-              expect(item.body).toEqual('Category Deleted');
+              expect(item.body).toEqual('Item Deleted');
             });
           });
           
@@ -141,7 +141,7 @@ describe('Categories API Moddule', () => {
         return mockRequest.delete(`/api/v1/products/${id}`)
           .then((item)=>{
             Object.keys(obj).forEach(key=>{
-              expect(item.body).toEqual('Product Deleted');
+              expect(item.body).toEqual('Item Deleted');
             });
           });
           
