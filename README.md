@@ -8,7 +8,7 @@
 
 - [swagger](https://app.swaggerhub.com/apis/Anolla/lab-10/0.1)
 - [submission PR](https://github.com/401-advanced-javascript-Anolla/api-server/pull/5)
-- [ci/cd](https://github.com/401-advanced-javascript-Anolla/api-server/runs/743674542)
+- [ci/cd](https://github.com/401-advanced-javascript-Anolla/api-server/runs/754195042)
 - [deployed url](https://api-server-class-10.herokuapp.com)
 
 #### `.env` requirements (where applicable)
