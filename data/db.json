@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "name": "Women Clothes",
+      "display_name": "Women Clothes",
+      "description": "Dresses, skirts, overalls",
+      "id": 1
+    },
+    {
+      "name": "Men Clothes",
+      "display_name": "Men Clothes",
+      "description": "Suits, shirts, overalls",
+      "id": 2
+    },
+    {
+      "name": "Children Clothes",
+      "display_name": "Children Clothes",
+      "description": "Shirts, Pants, Pijamas",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "category": "Women Clothes",
+      "name": "Dress",
+      "display_name": "Dress",
+      "description": "Summer Dress",
+      "id": 2
+    },
+    {
+      "category": "Men Clothes",
+      "name": "Suit",
+      "display_name": "Men's Suit",
+      "description": "Suit",
+      "id": 3
+    },
+    {
+      "category": "Children Clothes",
+      "name": "Pijamas",
+      "display_name": "Pijamas",
+      "description": "children Pijamas",
+      "id": 4
+    }
+  ]
+}
