@@ -1,0 +1,36 @@
+{
+  "name": "api-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --verbose",
+    "lint": "eslint '**/*.js'",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-Anolla/api-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-Anolla/api-server/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-Anolla/api-server#readme",
+  "devDependencies": {
+    "@code-fellows/supergoose": "^1.0.2",
+    "eslint": "^7.1.0",
+    "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.16",
+    "morgan": "^1.10.0",
+    "supergoose": "^0.2.6",
+    "supertest": "^4.0.2"
+  }
+}
